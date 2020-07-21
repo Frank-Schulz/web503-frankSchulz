@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# WEB503
 
-You can use the [editor on GitHub](https://github.com/Frank-Schulz/web503-frankSchulz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Class Times**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Days     | Column Two| Room 
+----------|-----------|----------
+ Tuesday  | 1100 - 1300 | A214 
+ Thursday | 0900 - 1130 | A214 
 
-### Markdown
+#### No Class Times
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Between week 5 - 6: Staff Research Week / No staff contact
 
-```markdown
-Syntax highlighted code block
+Term Break: 28 September - 9 October
 
-# Header 1
-## Header 2
-### Header 3
+Monday 26th October - Labour Day - No classes
 
-- Bulleted
-- List
+### Assessment One / Labs
 
-1. Numbered
-2. List
+> Weighting: 25% | 50 marks
 
-**Bold** and _Italic_ and `Code` text
+About:
+Journals and Practical Labs
 
-[Link](url) and ![Image](src)
-```
+Due date: 30th October
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Assessment Two
 
-### Jekyll Themes
+> Weighting: 25% | 100 marks
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Frank-Schulz/web503-frankSchulz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+About:
+A student portfolio web app (static web app)
 
-### Support or Contact
+Hand Out: Week 5
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Due date: End of week 9
+
+### Assessment Three
+
+> Weighting: 50% | 100 marks
+
+About:
+A business web app (dynamic web app)
+
+Hand Out: Week 9
+
+Presentation: Week 14
+
+Due date: Week 15
