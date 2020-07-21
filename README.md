@@ -2,7 +2,7 @@
 
 **Class Times**
 
- Days     | Column Two| Room 
+ Days     | Times | Room 
 ----------|-----------|----------
  Tuesday  | 1100 - 1300 | A214 
  Thursday | 0900 - 1130 | A214 
